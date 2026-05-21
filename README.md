@@ -174,17 +174,17 @@ The implemented system successfully achieved:
 ## ☁️ Blynk Dashboard
 
 
-![Blynk Dashboard](blynk_dashboard.jpg)
+![Blynk Dashboard](Blynk_dashboard.jpg)
 
 
 
 ## 📊 MATLAB Output
 
 
-![MATLAB Output](matlab_output.jpg)
+![MATLAB Output](MATLAB_output.jpg)
 
 ## Flowchart
-![Flowchart](Flowchart.png)
+![Flowchart](flowchart.png)
 
 # 🎥 Project Demonstration
 
