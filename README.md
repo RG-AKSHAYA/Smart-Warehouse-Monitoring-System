@@ -166,7 +166,7 @@ The implemented system successfully achieved:
 
 
 
-![Hardware Setup](Images/hardware_setup.jpg)
+![Hardware Setup](hardware_setup.jpg)
 
 
 ---
@@ -174,14 +174,14 @@ The implemented system successfully achieved:
 ## ☁️ Blynk Dashboard
 
 
-![Blynk Dashboard](Images/blynk_dashboard.jpg)
+![Blynk Dashboard](blynk_dashboard.jpg)
 
 
 
 ## 📊 MATLAB Output
 
 
-![MATLAB Output](Images/matlab_output.jpg)
+![MATLAB Output](matlab_output.jpg)
 
 ## Flowchart
 ![Flowchart](Flowchart.png)
