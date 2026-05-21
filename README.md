@@ -184,7 +184,7 @@ The implemented system successfully achieved:
 ![MATLAB Output](Images/matlab_output.jpg)
 
 ## Flowchart
-![Flowchart](Flowchart.jpg)
+![Flowchart](Flowchart.png)
 
 # 🎥 Project Demonstration
 
